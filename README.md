@@ -7,7 +7,9 @@ I also learned storing and retriving data using sqflite (sql lite) package.
 
 Let's take a tour in my food app
 
-![intro_page](https://github.com/lawmake-praveen/food_app_flutter/assets/113996180/b1c5c37d-ac85-45c3-86bf-fd86aa1778e7)
+<p align="center">
+  <img src="https://github.com/lawmake-praveen/food_app_flutter/assets/113996180/b1c5c37d-ac85-45c3-86bf-fd86aa1778e7" alt="intro_page" width="400px" />
+</p>
 
 At the welcome page there is some wordings and a picture of dosa to welcome the user.
 
